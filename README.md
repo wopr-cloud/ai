@@ -1,0 +1,3 @@
+# WOPR AI
+
+A termo nuclear game...
